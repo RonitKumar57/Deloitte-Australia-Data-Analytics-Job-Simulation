@@ -1,2 +1,11 @@
-# Deloitte-Australia-Data-Analytics-Job-Simulation
-I recently participated in Deloitte's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of the team at Deloitte.  I was able to analyse data and create a dashboard. I practised using Tableau and Excel and built my data analysis skills in a real-world context.
+#  Deloitte Australia Data Analytics Job Simulation on Forage - May 2025
+
+
+ * Completed a Deloitte job simulation involving data analysis and forensic technology.
+ * Created a data dashboard using Tableau.
+ * Used Excel to classify data and draw business conclusions.
+ * Skills learned :
+      1.  Data Analysis
+      2.  Data Modeling
+      3.  Spreadsheets
+      4.  Tableau
